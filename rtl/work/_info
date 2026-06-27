@@ -1,0 +1,218 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modelsim_work_space/ECG_VLSI_PROJECT/rtl
+vadc_if
+!s110 1761724192
+!i10b 1
+!s100 La326dDEiLdC:g27zk6cj3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I4b]j^<ZUDO=;;BSe1[`693
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1758737821
+8C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/adc_if.v
+FC:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/adc_if.v
+!i122 10
+L0 1 17
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1761724192.000000
+!s107 C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/adc_if.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/adc_if.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vderivative
+Z6 !s110 1761724193
+!i10b 1
+!s100 Pm3<?J:SFUl2>^GKZL6Sk2
+R1
+IW39`Y9BozMhbUU8=M`]3Y3
+R2
+R0
+w1758470718
+8C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/derivative.v
+FC:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/derivative.v
+!i122 11
+L0 3 19
+R3
+r1
+!s85 0
+31
+Z7 !s108 1761724193.000000
+!s107 C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/derivative.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/derivative.v|
+!i113 1
+R4
+R5
+vhp_filter
+R6
+!i10b 1
+!s100 nKUz6J@7<GPX52KiQjSK>1
+R1
+IXBGJeKc;T4lGL@@]KfG1`3
+R2
+R0
+w1758470670
+8C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/hp_filter.v
+FC:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/hp_filter.v
+!i122 12
+L0 3 31
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/hp_filter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/hp_filter.v|
+!i113 1
+R4
+R5
+vmetrics
+R6
+!i10b 1
+!s100 XlKR`1VSg0Ah<L54>f7RS0
+R1
+I7hZmHffWZ>RI];8n8W^he0
+R2
+R0
+w1759684247
+8C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/metrics.v
+FC:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/metrics.v
+!i122 13
+L0 3 33
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/metrics.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/metrics.v|
+!i113 1
+R4
+R5
+vmwi
+R6
+!i10b 1
+!s100 iDcUEzaeP_UN3APP1_J?13
+R1
+I4EXT?@N]Ea[80Mc8o4L3m0
+R2
+R0
+w1759684149
+8C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/mwi.v
+FC:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/mwi.v
+!i122 14
+L0 3 36
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/mwi.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/mwi.v|
+!i113 1
+R4
+R5
+vpeak_detector
+R6
+!i10b 1
+!s100 FUS8Tfc@HUDXzPnf93J4^0
+R1
+ImFYPY@RF=`2H]_gmI05>M3
+R2
+R0
+w1759684199
+8C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/peak_detector.v
+FC:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/peak_detector.v
+!i122 15
+L0 3 73
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/peak_detector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/peak_detector.v|
+!i113 1
+R4
+R5
+vsquaring
+R6
+!i10b 1
+!s100 3ZgVWAWm2JA]DYd9Zjo>j0
+R1
+ISohi_dhdo[Pk_Q7Rlgh>R3
+R2
+R0
+w1758470773
+8C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/squaring.v
+FC:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/squaring.v
+!i122 16
+L0 3 23
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/squaring.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/squaring.v|
+!i113 1
+R4
+R5
+vtb_top
+!s110 1761724194
+!i10b 1
+!s100 MQGPDgcgFToFmmj9MWYzm2
+R1
+I1Ojlob9V;DL4do8[U1bNn3
+R2
+R0
+w1759713858
+8C:/modelsim_work_space/ECG_VLSI_PROJECT/tb/tb_top.v
+FC:/modelsim_work_space/ECG_VLSI_PROJECT/tb/tb_top.v
+!i122 18
+L0 5 99
+R3
+r1
+!s85 0
+31
+!s108 1761724194.000000
+!s107 C:/modelsim_work_space/ECG_VLSI_PROJECT/tb/tb_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/modelsim_work_space/ECG_VLSI_PROJECT/tb/tb_top.v|
+!i113 1
+R4
+R5
+vtop
+R6
+!i10b 1
+!s100 ]YiIncL44GKfIXF[NLl_o0
+R1
+I[NS1N5VN]VO1]z><;9I:A3
+R2
+R0
+w1759712815
+8C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/top.v
+FC:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/top.v
+!i122 17
+L0 5 85
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/modelsim_work_space/ECG_VLSI_PROJECT/rtl/top.v|
+!i113 1
+R4
+R5
