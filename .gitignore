@@ -1,0 +1,10 @@
+work/ 
+*.wlf 
+transcript 
+modelsim.ini 
+*.qdb 
+*.qtl 
+*.qpg 
+_vmake 
+*.cr.mti 
+*.mpf 
